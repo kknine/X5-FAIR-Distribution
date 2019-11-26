@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">SostAInuto</string>
+    <string name="description">Energy Saving Lightbulbs: In order to decrease energy required for lighting, switching to energy saving lightbulbs is a cheap alternative and can sometimes be brighter then your previous lightbulbs while also requiring far less power!</string>
+    <string name="title_activity_api">ApiActivity</string>
+    <string-array name="food">
+        <item>Composting</item>
+    <item>Plant-Based Meals</item>
+    <item>Drinking Water</item>
+    <item>Diverse Dietary Requirements</item>
+    <item>Labeled Food</item>
+    <item>No Plastic Utensils</item>
+    <item>Food Sourced From Local Area</item>
+    </string-array>
+    <string-array name="building"><item>Energy Efficient Lightbulbs</item>
+        <item>Green Energy Sources</item>
+        <item>Ventilation System</item>
+        <item>Automated Lighting via Motion Sensors</item>
+        <item>Insulation</item>
+        <item>Water Conservation Features</item>
+        <item>Recycling on Site</item></string-array>
+
+    <string-array name="travel">
+    <item>Utilise Public Transport</item>
+    <item>Parking Spaces</item>
+    <item>Car Pooling</item>
+    </string-array>
+    <string-array name="employee">
+    <item>Gender Equality</item>
+    <item>Anti-Discrimination Policy</item>
+    <item>Wheelchair Accessible</item>
+    <item>Visually Impaired Accessible</item>
+    <item>Hearing Impaired Accessible</item>
+    <item>Gender Neutral Bathrooms</item>
+    <item>Work Harassment Awareness Training</item>
+    </string-array>
+</resources>
